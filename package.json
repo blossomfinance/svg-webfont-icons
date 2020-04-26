@@ -1,6 +1,6 @@
 {
   "name": "blossom-svg-webfont-icons",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Blossom's custom webfont icon set",
   "main": "Gruntfile.js",
   "scripts": {
