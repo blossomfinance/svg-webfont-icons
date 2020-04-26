@@ -28,5 +28,20 @@
     "grunt": "^1.1.0",
     "grunt-webfont": "^1.7.2",
     "release-it": "^13.5.5"
+  },
+  "release-it": {
+    "interactive": false,
+    "git": {
+      "commit": true,
+      "tag": true,
+      "push": true
+    },
+    "github": {
+      "release": true
+    },
+    "npm": {
+      "private": true,
+      "publish": false
+    }
   }
 }
