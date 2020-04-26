@@ -1,0 +1,31 @@
+{
+  "name": "svg-webfont-icons",
+  "version": "0.0.1",
+  "description": "Blossom's custom webfont icon set",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blossomfinance/svg-webfont-icons.git"
+  },
+  "keywords": [
+    "Blossom",
+    "icons",
+    "microfinance",
+    "finance",
+    "webfont",
+    "svg"
+  ],
+  "author": "Matthew J. Martin <matthew.mar10@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blossomfinance/svg-webfont-icons/issues"
+  },
+  "homepage": "https://github.com/blossomfinance/svg-webfont-icons#readme",
+  "devDependencies": {
+    "grunt": "^1.1.0",
+    "grunt-webfont": "^1.7.2"
+  }
+}

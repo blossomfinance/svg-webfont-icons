@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="21px" viewBox="0 0 16 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>minimum</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="minimum" transform="translate(8.000000, 10.500000) rotate(-180.000000) translate(-8.000000, -10.500000) translate(-1.000000, 0.000000)" fill="#000000" fill-rule="nonzero">
+            <rect id="Rectangle-path" x="1" y="18" width="16" height="3"></rect>
+            <polygon id="Shape" points="8.999 16.019 17.019 8 12 8 12 0 6 0 6 8 0.981 8"></polygon>
+        </g>
+    </g>
+</svg>
