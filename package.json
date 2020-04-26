@@ -30,7 +30,7 @@
     "release-it": "^13.5.5"
   },
   "release-it": {
-    "interactive": false,
+    "no-interactive": false,
     "git": {
       "commit": true,
       "tag": true,
