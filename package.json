@@ -4,6 +4,8 @@
   "description": "Blossom's custom webfont icon set",
   "main": "Gruntfile.js",
   "scripts": {
+    "release": "release-it",
+    "build": "grunt",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -38,6 +40,9 @@
     },
     "github": {
       "release": true
+    },
+    "hooks": {
+      "before:init": ["npm run build"]
     },
     "npm": {
       "publish": true
