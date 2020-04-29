@@ -13,19 +13,19 @@ module.exports = function(grunt) {
         destLess: 'dist/less',
         destScss: 'dist/scss',
         options: {
+          fontPathVariables: true,
+          stylesheets: ['css', 'less', 'scss'],
           syntax: 'bem',
           templateOptions: {
             baseClass: 'icon',
             classPrefix: 'icon-',
             mixinPrefix: 'icon-'
           },
-          stylesheets: ['css', 'less', 'scss']
         },
       }
     }
   });
 
   grunt.loadNpmTasks('grunt-webfont');
-  // grunt.registerTask('default', ['webfont:css', 'webfont:scss']);
   grunt.registerTask('default', ['webfont:icons']);
 };
