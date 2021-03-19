@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="82px" height="71px" viewBox="0 0 82 71" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>unchecked</title>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect id="unchecked" stroke="#979797" stroke-width="6" x="3" y="3" width="50" height="50" rx="8"></rect>
+        <g id="unchecked" fill="#000000" fill-rule="nonzero">
+            <g id="Group">
+                <path d="M0.9748799,60.3963 C0.9748799,62.4906 2.88058,64.3963 4.9748799,64.3963 L60.9748799,64.3963 C63.06918,64.3963 64.97468,62.4906 64.9748799,60.3963 L65.0003476,4.36218 C65.03,2.24888 63.1135,0.361834699 61,0.361834699 C58.8865,0.361834699 56.9701,2.24888 57,4.36218 L56.9748799,56.3963 L8.9748799,56.3963 L8.9748799,8.39628 L61,8.36218 C63.1132,8.39218 65.0003476,6.47568 65.0003476,4.36218 C65.0003476,2.24868 63.1132,0.33228 61,0.361834699 L4.9748799,0.39628 C2.77048,0.43128 1.01928,2.71048 0.9748799,4.39628 L0.9748799,60.3963 Z" id="Shape"></path>
+            </g>
+        </g>
     </g>
 </svg>
