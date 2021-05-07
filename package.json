@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/blossomfinance/svg-webfont-icons#readme",
   "devDependencies": {
-    "grunt": "^1.1.0",
+    "grunt": "^1.3.0",
     "grunt-webfont": "^1.7.2",
     "release-it": "^13.5.5"
   },
