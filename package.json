@@ -29,7 +29,7 @@
   "devDependencies": {
     "grunt": "^1.1.0",
     "grunt-webfont": "^1.7.2",
-    "release-it": "^13.5.5"
+    "release-it": "^13.7.2"
   },
   "release-it": {
     "ci": true,
